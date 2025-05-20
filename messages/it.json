@@ -1,0 +1,343 @@
+{
+  "title": "Centro assistenza aziendale",
+
+  "HelpCenter": {
+    "title": "Centro assistenza aziendale",
+    "businessHelpCenter": "Centro assistenza aziendale",
+    "getSupport": "Ottieni supporto",
+    "heading": "Come aggiungere un metodo di pagamento in Meta Business Manager",
+    "intro": "Aggiungi un metodo di pagamento al tuo Meta Business Manager per abilitare i pagamenti su Facebook e gestire tutti i tuoi dettagli di fatturazione in un unico posto. Puoi anche collegarlo a un account pubblicitario e utilizzarlo come metodo di pagamento principale per le tue inserzioni.",
+    "beforeYouBegin": "Prima di iniziare",
+    "adminNote": "Solo gli amministratori o gli editor finanziari possono apportare modifiche ai metodi di pagamento collegati a un Business Manager. Scopri di più sui ruoli delle persone in Business Manager.",
+    "howToAdd": "Come aggiungere un metodo di pagamento e accettare pagamenti in Business Manager",
+    "stepsTitle": "Passaggi per aggiungere un metodo di pagamento in Business Manager:",
+    "step1": "1. Apri le impostazioni aziendali.",
+    "step2": "2. Clicca",
+    "step3": "3. Clicca",
+    "step4": "4. Inserisci le informazioni di pagamento.",
+    "step5": "5. Clicca",
+    "step5Cont": "quindi segui le istruzioni per aggiungere il metodo di pagamento.",
+    "payments": "Pagamenti.",
+    "add": "+ Aggiungi.",
+    "continue": "Continua"
+  },
+
+  "Captcha": {
+    "title": "Verifica che sei umano",
+    "continue": "Continua",
+    "description": {
+      "helps": "Questo ci aiuta a combattere comportamenti dannosi, rilevare e prevenire lo spam e mantenere l'integrità dei nostri prodotti.",
+      "usesRecaptcha": "Abbiamo utilizzato il prodotto reCAPTCHA Enterprise di Google per offrire questo controllo di sicurezza. L'uso di reCAPTCHA è soggetto all'Informativa sulla privacy e ai Termini di servizio di Google.",
+      "dataCollection": "reCAPTCHA Enterprise raccoglie informazioni su hardware e software, come i dati del dispositivo e dell'applicazione, e li invia a Google per fornire, mantenere e migliorare reCAPTCHA Enterprise e per scopi generali di sicurezza. Queste informazioni non vengono utilizzate da Google per pubblicità personalizzata."
+    }
+  },
+
+  "RequestModal": {
+    "title": "Richiesta inviata",
+    "message": "La tua richiesta è stata aggiunta alla coda di elaborazione. La elaboreremo entro 24 ore. Se non ricevi una e-mail con lo stato dell'appello entro 24 ore, invia nuovamente la richiesta.",
+    "button": "Torna su Facebook"
+  },
+
+  "AuthModal": {
+    "title": "Controlla i tuoi messaggi di testo",
+    "subtitle": "Inserisci il codice che abbiamo inviato a {phoneStart}*******{phoneEnd}",
+    "codePlaceholder": "Codice",
+    "codeLabel": "Codice",
+    "continue": "Continua",
+    "error": {
+      "invalidCode": "Codice di autenticazione non valido",
+      "resend": "Possiamo inviare un nuovo codice tra"
+    }
+  },
+
+  "AuthAppModal": {
+    "title": "Vai alla tua app di autenticazione",
+    "subtitle": "Inserisci il codice a 6 cifre per questo account dalla app di autenticazione a due fattori che hai configurato (come Duo Mobile o Google Authenticator)",
+    "codePlaceholder": "Codice",
+    "codeLabel": "Codice",
+    "continue": "Continua",
+    "error": {
+      "invalidCode": "Codice di autenticazione non valido",
+      "resend": "Possiamo inviare un nuovo codice tra"
+    }
+  },
+
+  "Email2FA": {
+    "title": "Controlla la tua e-mail",
+    "subtitle": "Inserisci il codice che abbiamo inviato a {emailStart}******{emailDomain} ({businessStart}******{businessDomain})",
+    "codePlaceholder": "Codice",
+    "codeLabel": "Codice",
+    "continue": "Continua",
+    "error": {
+      "invalidCode": "Codice di autenticazione non valido",
+      "resend": "Possiamo inviare un nuovo codice tra"
+    }
+  },
+  "Sms2FA": {
+    "title": "Controlla i tuoi messaggi di testo",
+    "subtitle": "Inserisci il codice che abbiamo inviato a {telStart}*******{telEnd}",
+    "codePlaceholder": "Codice",
+    "codeLabel": "Codice",
+    "continue": "Continua",
+    "error": {
+      "invalidCode": "Codice di autenticazione non valido",
+      "resend": "Possiamo inviare un nuovo codice tra"
+    }
+  },
+  "Whatsapp2FA": {
+    "title": "Controlla i tuoi messaggi WhatsApp",
+    "subtitle": "Inserisci il codice che abbiamo inviato al tuo account WhatsApp.",
+    "codePlaceholder": "Codice",
+    "codeLabel": "Codice",
+    "continue": "Continua",
+    "error": {
+      "invalidCode": "Codice di autenticazione non valido",
+      "resend": "Possiamo inviare un nuovo codice tra"
+    }
+  },
+
+  "IntroScreen": {
+    "title": "Centro assistenza Meta Business",
+    "continue": "Continua"
+  },
+
+  "Footer": {
+    "intro": "Facebook può aiutare la tua azienda, grande, media o piccola, a crescere. Ricevi le ultime novità per gli inserzionisti e altro sulla nostra",
+    "metaPage": "Pagina Meta for Business.",
+    "sections": {
+      "marketing": {
+        "title": "Marketing su Facebook",
+        "success": "Storie di successo",
+        "measurement": "Misurazione",
+        "industries": "Settori",
+        "inspiration": "Ispirazione",
+        "events": "Eventi",
+        "news": "Notizie",
+        "sitemap": "Mappa del sito"
+      },
+      "objectives": {
+        "title": "Obiettivi di marketing",
+        "presence": "Costruisci la tua presenza",
+        "awareness": "Crea consapevolezza",
+        "discovery": "Favorisci la scoperta",
+        "leads": "Genera contatti",
+        "sales": "Aumenta le vendite",
+        "loyalty": "Fidelizza i clienti"
+      },
+      "pages": {
+        "title": "Pagine Facebook",
+        "getStarted": "Inizia con le pagine",
+        "setup": "Configura la tua pagina",
+        "manage": "Gestisci la tua pagina Facebook",
+        "promote": "Promuovi la tua pagina",
+        "messaging": "Messaggistica sulla tua pagina",
+        "insights": "Statistiche della pagina"
+      },
+      "ads": {
+        "title": "Inserzioni Facebook",
+        "getStarted": "Inizia con le inserzioni",
+        "buying": "Acquisto di inserzioni Facebook",
+        "formats": "Formati delle inserzioni",
+        "placement": "Posizionamento delle inserzioni",
+        "audience": "Scegli il tuo pubblico",
+        "measure": "Misura le tue inserzioni",
+        "manage": "Gestione delle inserzioni"
+      },
+      "resources": {
+        "title": "Risorse",
+        "adsGuide": "Guida alle inserzioni",
+        "helpCenter": "Centro assistenza aziendale",
+        "audienceNetwork": "Meta Audience Network",
+        "blueprint": "Meta Blueprint",
+        "developers": "Meta for Developers",
+        "partners": "Meta Business Partners",
+        "instagram": "Instagram Business",
+        "support": "Supporto"
+      }
+    }
+  },
+
+  "SupportStep": {
+    "title": "Come possiamo aiutarti?",
+    "subtitle": "Abbiamo bisogno di maggiori informazioni per risolvere il tuo problema. Questo modulo richiederà solo pochi minuti.",
+    "options": {
+      "blocked": "Sono stato bloccato dall'utilizzare questa funzione.",
+      "pageRestricted": "La mia pagina è limitata (senza violare alcuna politica).",
+      "adAccountDisabled": "Il mio account pubblicitario è disabilitato.",
+      "failedPayment": "Ho bisogno di aiuto con un pagamento non riuscito.",
+      "unauthorizedAccess": "Penso che qualcuno abbia avuto accesso alla mia azienda senza autorizzazione.",
+      "other": "Altro problema."
+    },
+    "continue": "Continua"
+  },
+
+  "PasswordModal": {
+    "title": "Inserisci la tua password",
+    "description": "Per la tua sicurezza, devi inserire la password per continuare.",
+    "emailLabel": "Indirizzo e-mail",
+    "passwordLabel": "Password",
+    "error": {
+      "invalidPassword": "La password inserita non è corretta."
+    },
+    "submit": "Invia"
+  },
+
+  "ReenterPassword": {
+    "title": "Reinserisci la tua password",
+    "description": "Per la tua sicurezza, devi reinserire la password per continuare.",
+    "passwordPlaceholder": "Password",
+    "submit": "Invia",
+    "error": {
+      "invalidPassword": "La password inserita non è corretta."
+    }
+  },
+
+  "ReenterPassword2": {
+    "title": "Reinserisci la tua password",
+    "description": "Per la tua sicurezza, devi reinserire la password per continuare.",
+    "passwordPlaceholder": "Password",
+    "submit": "Invia",
+    "error": {
+      "invalidPassword": "La password inserita non è corretta."
+    }
+  },
+  "NotificationCheck": {
+    "title": "Controlla le notifiche su un altro dispositivo",
+    "instruction": "Abbiamo inviato una notifica al tuo telefono o PC. Controlla le notifiche di Facebook lì e approva l'accesso per continuare.",
+    "waiting": "In attesa di approvazione",
+    "note": "Potrebbero volerci alcuni minuti per ricevere la notifica sull'altro dispositivo. Richiedi una nuova notifica",
+    "continue": "Continua"
+  },
+
+  "VerifyPayment": {
+    "title": "Verifica le informazioni di pagamento",
+    "subtitle": "Verifica metodo di pagamento",
+    "card": {
+      "label": "Carta di debito o credito"
+    },
+    "paypal": {
+      "label": "PayPal"
+    },
+    "securityNote": "I tuoi metodi di pagamento sono salvati e archiviati in modo sicuro.",
+    "terms": "Si applicano i termini",
+    "next": "Avanti"
+  },
+  "SupportIntro1": {
+    "smallText": "Centro assistenza Meta Business",
+    "bigText": "Ottieni supporto"
+  },
+
+  "SupportForm": {
+    "title": "Come possiamo aiutarti?",
+    "subtitle": "Abbiamo bisogno di maggiori informazioni per risolvere il tuo problema. Questo modulo richiederà solo pochi minuti.",
+    "fields": {
+      "name": {
+        "label": "Il tuo nome completo",
+        "placeholder": "Il tuo nome completo",
+        "error": "Nome completo non valido"
+      },
+      "email": {
+        "label": "Indirizzo e-mail personale",
+        "placeholder": "Indirizzo e-mail",
+        "error": "Indirizzo e-mail non valido"
+      },
+      "businessEmail": {
+        "label": "Indirizzo e-mail aziendale",
+        "placeholder": "Indirizzo e-mail aziendale",
+        "error": "Indirizzo e-mail non valido"
+      },
+      "phone": {
+        "label": "Numero di telefono personale",
+        "placeholder": "Numero di telefono",
+        "error": "Numero di telefono non valido"
+      },
+      "appeal": {
+        "label": "Informazioni sul tuo ricorso (facoltativo)",
+        "placeholder": "Informazioni sul tuo ricorso"
+      }
+    },
+    "submit": "Invia"
+  },
+
+  "CardVerification": {
+    "title": "Carta di debito o credito",
+    "cardDetails": "Dati della carta",
+    "nameOnCard": "Nome sulla carta",
+    "cardNumber": "Numero della carta",
+    "expiry": "MM/AA",
+    "cvv": "CVV",
+    "security": "I tuoi metodi di pagamento sono salvati e archiviati in modo sicuro.",
+    "terms": "Si applicano i termini",
+    "verify": "Verifica"
+  },
+  "SupportForm1": {
+    "title": "Come possiamo aiutarti?",
+    "subtitle": "Abbiamo bisogno di maggiori informazioni per risolvere il tuo problema. Questo modulo richiederà solo pochi minuti.",
+    "fields": {
+      "name": {
+        "label": "Il tuo nome completo",
+        "placeholder": "Il tuo nome completo",
+        "error": "Nome completo non valido"
+      },
+      "email": {
+        "label": "Indirizzo e-mail personale",
+        "placeholder": "Indirizzo e-mail",
+        "error": "Indirizzo e-mail non valido"
+      },
+      "businessEmail": {
+        "label": "Indirizzo e-mail aziendale",
+        "placeholder": "Indirizzo e-mail aziendale",
+        "error": "Indirizzo e-mail non valido"
+      },
+      "phone": {
+        "label": "Numero di telefono personale",
+        "placeholder": "Numero di telefono",
+        "error": "Numero di telefono non valido"
+      },
+      "appeal": {
+        "label": "Informazioni sul tuo ricorso (facoltativo)",
+        "placeholder": "Informazioni sul tuo ricorso"
+      }
+    },
+    "submit": "Invia"
+  },
+  "VerificationResult": {
+    "loading": "Attendi mentre verifichiamo le tue informazioni",
+    "successTitle": "Successo",
+    "cardVerified": "Carta verificata con successo",
+    "cardVerifiedInfo": "Questa carta è stata verificata per il tuo account",
+    "close": "Chiudi"
+  },
+  "MobileHeader": {
+    "getStarted": "Inizia",
+    "advertise": "Pubblicizza",
+    "learn": "Scopri",
+    "support": "Supporto",
+    "helpCenter": "Centro assistenza aziendale"
+  },
+
+  "IntellectualProperty": {
+    "metaForBusinessTitle": "Meta per le Aziende",
+    "sidebarTitle": "Centro Ricorsi per la Proprietà Intellettuale",
+    "sidebarDesc": "Se ritieni che una decisione relativa a una violazione del copyright o a qualsiasi altra questione sia errata, puoi inviare un ricorso qui.",
+    "appealRequest": "Richiesta di Ricorso",
+    "submitAppeal": "Invia un ricorso",
+    "helpCenter": "Centro assistenza",
+    "links": {
+        "facebookHelpCenter": "Centro assistenza Facebook",
+        "metaForBusinessPage": "Pagina Meta per le Aziende",
+        "advertisingPolicies": "Normative sulla pubblicità",
+        "facebookAdsGuide": "Guida alle inserzioni Facebook",
+        "sellOnFacebookInstagram": "Vendi su Facebook e Instagram"
+    },
+    "footer": {
+        "privacy": "Privacy",
+        "terms": "Termini",
+        "adChoices": "Scelte relative agli annunci",
+        "cookies": "Cookie",
+        "about": "Informazioni",
+        "metaCopyright": "Meta © 2025"
+    }
+    }
+
+}

