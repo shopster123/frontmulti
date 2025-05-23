@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 
 const PUBLIC_FILE = /\.(.*)$/
-const SUPPORTED_LOCALES = ['en', 'fr', 'de', 'it' , 'es' ]
+const SUPPORTED_LOCALES = ['en', 'fr', 'de', 'it' , 'es', 'vi', 'tw' ]
 const DEFAULT_LOCALE = 'en'
 
 export function middleware(req) {

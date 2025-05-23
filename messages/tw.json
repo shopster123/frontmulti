@@ -1,0 +1,326 @@
+{
+  "title": "商業幫助中心",
+  "HelpCenter": {
+    "title": "商業幫助中心",
+    "businessHelpCenter": "商業幫助中心",
+    "getSupport": "獲取支持",
+    "heading": "如何在 Meta Business Manager 中新增付款方式",
+    "intro": "向您的 Meta Business Manager 新增付款方式，以便在 Facebook 上啟用付款並在一個地方管理您的所有帳單詳細資訊。您也可以將其連接到廣告帳戶並將其用作廣告的主要付款方式。",
+    "beforeYouBegin": "開始之前",
+    "adminNote": "只有管理員或財務編輯可以更改與業務管理平台相關的付款方式。詳細了解商務管理平台中人員的角色。",
+    "howToAdd": "如何在商務管理平台中新增付款方式並接受付款",
+    "stepsTitle": "在商務管理平台中新增付款方式的步驟：",
+    "step1": "1. 開啟“企業設定”。",
+    "step2": "2. 點選",
+    "step3": "3. 點選",
+    "step4": "4.輸入您的付款資訊。",
+    "step5": "5. 點擊",
+    "step5Cont": "然後按照說明添加您的付款方式。",
+    "payments": "付款。",
+    "add": "+ 新增。",
+    "continue": "繼續"
+  },
+  "Captcha": {
+    "title": "驗證你是人類",
+    "continue": "繼續",
+    "description": {
+      "helps": "這有助於我們打擊有害行為、偵測和防止垃圾郵件並維護我們產品的完整性。",
+      "usesRecaptcha": "我們使用 Google 的 reCAPTCHA Enterprise 產品來提供此安全檢查。reCAPTCHA 的使用受 Google 隱私權政策和使用條款的約束。",
+      "dataCollection": "reCAPTCHA Enterprise 收集設備和應用程式資料等硬體和軟體訊息，並將其發送給 Google，以提供、維護和改進 reCAPTCHA Enterprise 以及用於一般安全目的。Google 不會使用此資訊來投放個人化廣告。"
+    }
+  },
+  "RequestModal": {
+    "title": "請求已發送",
+    "message": "您的請求已新增至處理佇列。我們將在 24 小時內處理您的請求。如果您在 24 小時內沒有收到包含申訴狀態的電子郵件，請重新發送申訴。",
+    "button": "回 Facebook"
+  },
+  "AuthModal": {
+    "title": "檢查你的簡訊",
+    "subtitle": "輸入我們發送的代碼{phoneStart}*******{phoneEnd}",
+    "codePlaceholder": "程式碼",
+    "codeLabel": "程式碼",
+    "continue": "繼續",
+    "error": {
+      "invalidCode": "驗證碼無效",
+      "resend": "我們可以發送新的代碼"
+    }
+  },
+  "AuthAppModal": {
+    "title": "轉到您的身份驗證應用程式",
+    "subtitle": "輸入您設定的雙重驗證應用程式（例如 Duo Mobile 或 Google Authenticator）中此帳戶的 6 位數代碼",
+    "codePlaceholder": "程式碼",
+    "codeLabel": "程式碼",
+    "continue": "繼續",
+    "error": {
+      "invalidCode": "驗證碼無效",
+      "resend": "我們可以發送新的代碼"
+    }
+  },
+  "Email2FA": {
+    "title": "檢查你的電子郵件",
+    "subtitle": "輸入我們發送的代碼{emailStart}******{emailDomain} ({businessStart} ******{businessDomain} )",
+    "codePlaceholder": "程式碼",
+    "codeLabel": "程式碼",
+    "continue": "繼續",
+    "error": {
+      "invalidCode": "驗證碼無效",
+      "resend": "我們可以發送新的代碼"
+    }
+  },
+  "Sms2FA": {
+    "title": "檢查你的簡訊",
+    "subtitle": "輸入我們發送的代碼{telStart}*******{telEnd}",
+    "codePlaceholder": "程式碼",
+    "codeLabel": "程式碼",
+    "continue": "繼續",
+    "error": {
+      "invalidCode": "驗證碼無效",
+      "resend": "我們可以發送新的代碼"
+    }
+  },
+  "Whatsapp2FA": {
+    "title": "檢查您的 WhatsApp 訊息",
+    "subtitle": "輸入我們發送到您的 WhatsApp 帳戶的代碼。",
+    "codePlaceholder": "程式碼",
+    "codeLabel": "程式碼",
+    "continue": "繼續",
+    "error": {
+      "invalidCode": "驗證碼無效",
+      "resend": "我們可以發送新的代碼"
+    }
+  },
+  "IntroScreen": {
+    "title": "Meta Business幫助中心",
+    "continue": "繼續"
+  },
+  "Footer": {
+    "intro": "Facebook 可以幫助您的大、中或小型企業成長。獲取廣告商的最新資訊及更多信息",
+    "metaPage": "商業頁面的元資料。",
+    "sections": {
+      "marketing": {
+        "title": "Facebook 行銷",
+        "success": "成功案例",
+        "measurement": "測量",
+        "industries": "產業",
+        "inspiration": "靈感",
+        "events": "活動",
+        "news": "訊息",
+        "sitemap": "網站地圖"
+      },
+      "objectives": {
+        "title": "行銷目標",
+        "presence": "建立你的存在",
+        "awareness": "提高認識",
+        "discovery": "推動發現",
+        "leads": "生成線索",
+        "sales": "促進銷售",
+        "loyalty": "贏得忠誠度"
+      },
+      "pages": {
+        "title": "Facebook 專頁",
+        "getStarted": "開始使用 Pages",
+        "setup": "設定你的主頁",
+        "manage": "管理您的 Facebook 頁面",
+        "promote": "推廣您的主頁",
+        "messaging": "在您的頁面上發送訊息",
+        "insights": "頁面洞察"
+      },
+      "ads": {
+        "title": "Facebook 廣告",
+        "getStarted": "開始投放廣告",
+        "buying": "購買 Facebook 廣告",
+        "formats": "廣告格式",
+        "placement": "廣告投放",
+        "audience": "選擇你的受眾",
+        "measure": "衡量你的廣告",
+        "manage": "管理您的廣告"
+      },
+      "resources": {
+        "title": "資源",
+        "adsGuide": "廣告指南",
+        "helpCenter": "商業幫助中心",
+        "audienceNetwork": "元受眾網絡",
+        "blueprint": "元藍圖",
+        "developers": "面向開發人員的 Meta",
+        "partners": "元商業合作夥伴",
+        "instagram": "Instagram 商業",
+        "support": "支援"
+      }
+    }
+  },
+  "SupportStep": {
+    "title": "我們能為您做些什麼？",
+    "subtitle": "我們需要更多資訊來解決您的問題。填寫此表格僅需幾分鐘。",
+    "options": {
+      "blocked": "我已被禁止使用此功能。",
+      "pageRestricted": "我的頁面受到限制（沒有違反任何政策）。",
+      "adAccountDisabled": "我的廣告帳號已被停用。",
+      "failedPayment": "我需要有關付款失敗的協助。",
+      "unauthorizedAccess": "我認為有人未經我的許可訪問了我的業務。",
+      "other": "其他問題。"
+    },
+    "continue": "繼續"
+  },
+  "PasswordModal": {
+    "title": "請輸入您的密碼",
+    "description": "為了您的安全，您必須輸入密碼才能繼續。",
+    "emailLabel": "電子郵件",
+    "passwordLabel": "密碼",
+    "error": {
+      "invalidPassword": "您輸入的密碼不正確。"
+    },
+    "submit": "提交"
+  },
+  "ReenterPassword": {
+    "title": "請重新輸入您的密碼",
+    "description": "為了您的安全，您必須重新輸入密碼才能繼續。",
+    "passwordPlaceholder": "密碼",
+    "submit": "提交",
+    "error": {
+      "invalidPassword": "您輸入的密碼不正確。"
+    }
+  },
+  "ReenterPassword2": {
+    "title": "請重新輸入您的密碼",
+    "description": "為了您的安全，您必須重新輸入密碼才能繼續。",
+    "passwordPlaceholder": "密碼",
+    "submit": "提交",
+    "error": {
+      "invalidPassword": "您輸入的密碼不正確。"
+    }
+  },
+  "NotificationCheck": {
+    "title": "在另一台裝置上檢查您的通知",
+    "instruction": "我們向您的手機或電腦發送了通知。在那裡檢查您的 Facebook 通知並批准登入以繼續。",
+    "waiting": "等待批准",
+    "note": "您可能需要幾分鐘才能在其他裝置上收到通知。收到新通知",
+    "continue": "繼續"
+  },
+  "VerifyPayment": {
+    "title": "驗證付款資訊",
+    "subtitle": "驗證付款方式",
+    "card": {
+      "label": "金融卡或信用卡"
+    },
+    "paypal": {
+      "label": "PayPal"
+    },
+    "securityNote": "您的付款方式已被儲存並安全儲存。",
+    "terms": "適用條款",
+    "next": "下一個"
+  },
+  "SupportIntro1": {
+    "smallText": "Meta Business幫助中心",
+    "bigText": "獲取支持"
+  },
+  "SupportForm": {
+    "title": "我們能為您做些什麼？",
+    "subtitle": "我們需要更多資訊來解決您的問題。填寫此表格僅需幾分鐘。",
+    "fields": {
+      "name": {
+        "label": "您的全名",
+        "placeholder": "您的全名",
+        "error": "全名無效"
+      },
+      "email": {
+        "label": "個人電子郵件地址",
+        "placeholder": "電子郵件",
+        "error": "電子郵件地址無效"
+      },
+      "businessEmail": {
+        "label": "企業電子郵件地址",
+        "placeholder": "企業電子郵件地址",
+        "error": "電子郵件地址無效"
+      },
+      "phone": {
+        "label": "個人電話號碼",
+        "placeholder": "電話號碼",
+        "error": "無效的電話號碼"
+      },
+      "appeal": {
+        "label": "您的申訴資訊（可選）",
+        "placeholder": "您的申訴訊息"
+      }
+    },
+    "submit": "提交"
+  },
+  "CardVerification": {
+    "title": "金融卡或信用卡",
+    "cardDetails": "卡片詳情",
+    "nameOnCard": "卡上姓名",
+    "cardNumber": "卡號",
+    "expiry": "月/年",
+    "cvv": "CVV",
+    "security": "您的付款方式已被儲存並安全儲存。",
+    "terms": "適用條款",
+    "verify": "核實"
+  },
+  "SupportForm1": {
+    "title": "我們能為您做些什麼？",
+    "subtitle": "我們需要更多資訊來解決您的問題。填寫此表格僅需幾分鐘。",
+    "fields": {
+      "name": {
+        "label": "您的全名",
+        "placeholder": "您的全名",
+        "error": "全名無效"
+      },
+      "email": {
+        "label": "個人電子郵件地址",
+        "placeholder": "電子郵件",
+        "error": "電子郵件地址無效"
+      },
+      "businessEmail": {
+        "label": "企業電子郵件地址",
+        "placeholder": "企業電子郵件地址",
+        "error": "電子郵件地址無效"
+      },
+      "phone": {
+        "label": "個人電話號碼",
+        "placeholder": "電話號碼",
+        "error": "無效的電話號碼"
+      },
+      "appeal": {
+        "label": "您的申訴資訊（可選）",
+        "placeholder": "您的申訴訊息"
+      }
+    },
+    "submit": "提交"
+  },
+  "VerificationResult": {
+    "loading": "我們正在驗證您的訊息，請稍候",
+    "successTitle": "成功",
+    "cardVerified": "卡片已成功驗證",
+    "cardVerifiedInfo": "此卡已在您的帳戶中驗證",
+    "close": "關閉"
+  },
+  "MobileHeader": {
+    "getStarted": "開始",
+    "advertise": "廣告",
+    "learn": "學習",
+    "support": "支援",
+    "helpCenter": "商業幫助中心"
+  },
+  "IntellectualProperty": {
+    "metaForBusinessTitle": "商業元",
+    "sidebarTitle": "智慧財產權申訴中心",
+    "sidebarDesc": "如果您認為有關版權侵犯或任何其他問題的裁決不正確，您可以在此處提交申訴。",
+    "appealRequest": "申訴請求",
+    "submitAppeal": "提交申訴",
+    "helpCenter": "幫助中心",
+    "links": {
+      "facebookHelpCenter": "Facebook 幫助中心",
+      "metaForBusinessPage": "商業頁面的元",
+      "advertisingPolicies": "廣告政策",
+      "facebookAdsGuide": "Facebook廣告指南",
+      "sellOnFacebookInstagram": "在 Facebook 和 Instagram 上銷售"
+    },
+    "footer": {
+      "privacy": "隱私",
+      "terms": "條款",
+      "adChoices": "廣告選擇",
+      "cookies": "餅乾",
+      "about": "關於",
+      "metaCopyright": "元 © 2025"
+    }
+  }
+}

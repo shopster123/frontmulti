@@ -1,0 +1,326 @@
+{
+  "title": "Trung tâm Hỗ trợ Doanh nghiệp",
+  "HelpCenter": {
+    "title": "Trung tâm Hỗ trợ Doanh nghiệp",
+    "businessHelpCenter": "Trung tâm Hỗ trợ Doanh nghiệp",
+    "getSupport": "Nhận Hỗ Trợ",
+    "heading": "Cách thêm phương thức thanh toán trong Meta Business Manager",
+    "intro": "Thêm phương thức thanh toán vào Trình quản lý doanh nghiệp Meta của bạn để kích hoạt thanh toán trên Facebook và quản lý tất cả chi tiết thanh toán của bạn tại một nơi. Bạn cũng có thể kết nối nó với một tài khoản quảng cáo và sử dụng nó như phương thức thanh toán chính cho các quảng cáo của bạn.",
+    "beforeYouBegin": "Trước khi bạn bắt đầu",
+    "adminNote": "Chỉ quản trị viên hoặc biên tập viên tài chính mới có thể thực hiện thay đổi đối với các phương thức thanh toán được kết nối với Trình quản lý doanh nghiệp. Tìm hiểu thêm về các vai trò cho người dùng trong Trình quản lý doanh nghiệp.",
+    "howToAdd": "Cách thêm phương thức thanh toán và chấp nhận thanh toán trong Trình quản lý doanh nghiệp",
+    "stepsTitle": "Các bước để thêm phương thức thanh toán trong Business Manager:",
+    "step1": "1. Mở Cài đặt doanh nghiệp.",
+    "step2": "2. Nhấp chuột",
+    "step3": "3. Nhấp chuột",
+    "step4": "4. Nhập thông tin thanh toán của bạn.",
+    "step5": "5. Nhấp chuột",
+    "step5Cont": "sau đó làm theo hướng dẫn để thêm phương thức thanh toán của bạn.",
+    "payments": "Thanh toán.",
+    "add": "+ Thêm.",
+    "continue": "Tiếp tục"
+  },
+  "Captcha": {
+    "title": "Xác minh bạn là con người",
+    "continue": "Tiếp tục",
+    "description": {
+      "helps": "Điều này giúp chúng tôi chống lại hành vi có hại, phát hiện và ngăn chặn spam cũng như duy trì tính toàn vẹn của các Sản phẩm của chúng tôi.",
+      "usesRecaptcha": "Chúng tôi đã sử dụng sản phẩm reCAPTCHA Enterprise của Google để cung cấp kiểm tra bảo mật này. Việc sử dụng reCAPTCHA tuân theo Chính sách Bảo mật và Điều khoản Sử dụng của Google.",
+      "dataCollection": "reCAPTCHA Enterprise thu thập thông tin phần cứng và phần mềm như dữ liệu thiết bị và ứng dụng, và gửi đến Google để cung cấp, duy trì và cải thiện reCAPTCHA Enterprise cũng như cho các mục đích bảo mật chung. Thông tin này không được Google sử dụng cho quảng cáo được cá nhân hóa."
+    }
+  },
+  "RequestModal": {
+    "title": "Yêu cầu đã được gửi",
+    "message": "Yêu cầu của bạn đã được thêm vào hàng đợi xử lý. Chúng tôi sẽ xử lý yêu cầu của bạn trong vòng 24 giờ. Nếu bạn không nhận được email thông báo về trạng thái kháng nghị trong vòng 24 giờ, vui lòng gửi lại kháng nghị.",
+    "button": "Quay lại Facebook"
+  },
+  "AuthModal": {
+    "title": "Kiểm tra tin nhắn văn bản của bạn",
+    "subtitle": "Nhập mã chúng tôi đã gửi đến {phoneStart}*******{phoneEnd}",
+    "codePlaceholder": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "codeLabel": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "continue": "Tiếp tục",
+    "error": {
+      "invalidCode": "Mã xác thực không hợp lệ",
+      "resend": "Chúng tôi có thể gửi một mã mới"
+    }
+  },
+  "AuthAppModal": {
+    "title": "Truy cập ứng dụng xác thực của bạn",
+    "subtitle": "Nhập mã 6 chữ số cho tài khoản này từ ứng dụng xác thực hai yếu tố mà bạn đã thiết lập (như Duo Mobile hoặc Google Authenticator)",
+    "codePlaceholder": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "codeLabel": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "continue": "Tiếp tục",
+    "error": {
+      "invalidCode": "Mã xác thực không hợp lệ",
+      "resend": "Chúng tôi có thể gửi một mã mới"
+    }
+  },
+  "Email2FA": {
+    "title": "Kiểm tra email của bạn",
+    "subtitle": "Nhập mã chúng tôi đã gửi đến {emailStart}******{emailDomain} ({businessStart}******{businessDomain})",
+    "codePlaceholder": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "codeLabel": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "continue": "Tiếp tục",
+    "error": {
+      "invalidCode": "Mã xác thực không hợp lệ",
+      "resend": "Chúng tôi có thể gửi một mã mới"
+    }
+  },
+  "Sms2FA": {
+    "title": "Kiểm tra tin nhắn văn bản của bạn",
+    "subtitle": "Nhập mã chúng tôi đã gửi đến {telStart}*******{telEnd}",
+    "codePlaceholder": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "codeLabel": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "continue": "Tiếp tục",
+    "error": {
+      "invalidCode": "Mã xác thực không hợp lệ",
+      "resend": "Chúng tôi có thể gửi một mã mới"
+    }
+  },
+  "Whatsapp2FA": {
+    "title": "Kiểm tra tin nhắn WhatsApp của bạn",
+    "subtitle": "Nhập mã chúng tôi đã gửi đến tài khoản WhatsApp của bạn.",
+    "codePlaceholder": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "codeLabel": "Mã\nBây giờ vui lòng viết bản dịch của văn bản nguồn này sang tiếng Việt:",
+    "continue": "Tiếp tục",
+    "error": {
+      "invalidCode": "Mã xác thực không hợp lệ",
+      "resend": "Chúng tôi có thể gửi một mã mới"
+    }
+  },
+  "IntroScreen": {
+    "title": "Trung tâm Trợ giúp Doanh nghiệp Meta",
+    "continue": "Tiếp tục"
+  },
+  "Footer": {
+    "intro": "Facebook có thể giúp doanh nghiệp lớn, vừa hoặc nhỏ của bạn phát triển. Nhận tin tức mới nhất dành cho nhà quảng cáo và nhiều thông tin khác trên trang của chúng tôi",
+    "metaPage": "Trang Meta dành cho Doanh nghiệp.",
+    "sections": {
+      "marketing": {
+        "title": "Tiếp thị trên Facebook",
+        "success": "Những Câu Chuyện Thành Công",
+        "measurement": "Đo lường",
+        "industries": "Các ngành công nghiệp",
+        "inspiration": "Cảm hứng",
+        "events": "Sự kiện",
+        "news": "Tin tức",
+        "sitemap": "Sơ đồ trang web"
+      },
+      "objectives": {
+        "title": "Mục tiêu marketing",
+        "presence": "Xây dựng sự hiện diện của bạn",
+        "awareness": "Tạo nhận thức",
+        "discovery": "Thúc đẩy khám phá",
+        "leads": "Tạo khách hàng tiềm năng",
+        "sales": "Tăng doanh số",
+        "loyalty": "Nhận được lòng trung thành"
+      },
+      "pages": {
+        "title": "Trang Facebook",
+        "getStarted": "Bắt đầu với Pages",
+        "setup": "Thiết lập Trang của bạn",
+        "manage": "Quản lý Trang Facebook của bạn",
+        "promote": "Quảng bá Trang của bạn",
+        "messaging": "Nhắn tin trên Trang của bạn",
+        "insights": "Thông tin chi tiết về trang"
+      },
+      "ads": {
+        "title": "Quảng cáo Facebook",
+        "getStarted": "Bắt đầu với quảng cáo",
+        "buying": "Mua quảng cáo Facebook",
+        "formats": "Định dạng quảng cáo",
+        "placement": "Vị trí quảng cáo",
+        "audience": "Chọn đối tượng của bạn",
+        "measure": "Đo lường quảng cáo của bạn",
+        "manage": "Quản lý quảng cáo của bạn"
+      },
+      "resources": {
+        "title": "Tài nguyên",
+        "adsGuide": "Hướng dẫn Quảng cáo",
+        "helpCenter": "Trung tâm Hỗ trợ Doanh nghiệp",
+        "audienceNetwork": "Mạng lưới khán giả Meta",
+        "blueprint": "Meta Blueprint",
+        "developers": "Meta dành cho Nhà phát triển",
+        "partners": "Đối tác Kinh doanh Meta",
+        "instagram": "Instagram Doanh nghiệp",
+        "support": "Hỗ trợ"
+      }
+    }
+  },
+  "SupportStep": {
+    "title": "Chúng tôi có thể giúp gì cho bạn?",
+    "subtitle": "Chúng tôi cần thêm thông tin để giải quyết vấn đề của bạn. Mẫu đơn này sẽ chỉ mất vài phút.",
+    "options": {
+      "blocked": "Tôi đã bị chặn không cho sử dụng tính năng này.",
+      "pageRestricted": "Trang của tôi bị hạn chế (không vi phạm bất kỳ chính sách nào).",
+      "adAccountDisabled": "Tài khoản quảng cáo của tôi đã bị vô hiệu hóa.",
+      "failedPayment": "Tôi cần giúp đỡ với một khoản thanh toán bị thất bại.",
+      "unauthorizedAccess": "Tôi nghĩ có người đã truy cập vào doanh nghiệp của tôi mà không có sự cho phép của tôi.",
+      "other": "Vấn đề khác."
+    },
+    "continue": "Tiếp tục"
+  },
+  "PasswordModal": {
+    "title": "Vui lòng nhập mật khẩu của bạn",
+    "description": "Vì lý do bảo mật, bạn phải nhập mật khẩu để tiếp tục.",
+    "emailLabel": "Địa chỉ email",
+    "passwordLabel": "Mật khẩu",
+    "error": {
+      "invalidPassword": "Mật khẩu bạn đã nhập không chính xác."
+    },
+    "submit": "Gửi đi"
+  },
+  "ReenterPassword": {
+    "title": "Vui lòng nhập lại mật khẩu của bạn",
+    "description": "Vì lý do bảo mật, bạn phải nhập lại mật khẩu để tiếp tục.",
+    "passwordPlaceholder": "Mật khẩu",
+    "submit": "Gửi đi",
+    "error": {
+      "invalidPassword": "Mật khẩu bạn đã nhập không chính xác."
+    }
+  },
+  "ReenterPassword2": {
+    "title": "Vui lòng nhập lại mật khẩu của bạn",
+    "description": "Vì lý do bảo mật, bạn phải nhập lại mật khẩu để tiếp tục.",
+    "passwordPlaceholder": "Mật khẩu",
+    "submit": "Gửi đi",
+    "error": {
+      "invalidPassword": "Mật khẩu bạn đã nhập không chính xác."
+    }
+  },
+  "NotificationCheck": {
+    "title": "Kiểm tra thông báo của bạn trên thiết bị khác",
+    "instruction": "Chúng tôi đã gửi một thông báo đến Điện thoại hoặc PC của bạn. Kiểm tra thông báo Facebook của bạn ở đó và phê duyệt đăng nhập để tiếp tục.",
+    "waiting": "Đang chờ phê duyệt",
+    "note": "Có thể mất vài phút để nhận được thông báo trên thiết bị khác của bạn. Nhận thông báo mới",
+    "continue": "Tiếp tục"
+  },
+  "VerifyPayment": {
+    "title": "Xác minh thông tin thanh toán",
+    "subtitle": "Xác minh phương thức thanh toán",
+    "card": {
+      "label": "Thẻ ghi nợ hoặc thẻ tín dụng"
+    },
+    "paypal": {
+      "label": "PayPal"
+    },
+    "securityNote": "Các phương thức thanh toán của bạn được lưu trữ và bảo quản an toàn.",
+    "terms": "Điều khoản áp dụng",
+    "next": "Tiếp theo"
+  },
+  "SupportIntro1": {
+    "smallText": "Trung tâm Trợ giúp Doanh nghiệp Meta",
+    "bigText": "Nhận Hỗ Trợ"
+  },
+  "SupportForm": {
+    "title": "Chúng tôi có thể giúp gì cho bạn?",
+    "subtitle": "Chúng tôi cần thêm thông tin để giải quyết vấn đề của bạn. Mẫu đơn này sẽ chỉ mất vài phút.",
+    "fields": {
+      "name": {
+        "label": "Họ và tên đầy đủ của bạn",
+        "placeholder": "Họ và tên đầy đủ của bạn",
+        "error": "Tên đầy đủ không hợp lệ"
+      },
+      "email": {
+        "label": "Địa chỉ email cá nhân",
+        "placeholder": "Địa chỉ email",
+        "error": "Địa chỉ email không hợp lệ"
+      },
+      "businessEmail": {
+        "label": "Địa chỉ email doanh nghiệp",
+        "placeholder": "Địa chỉ email doanh nghiệp",
+        "error": "Địa chỉ email không hợp lệ"
+      },
+      "phone": {
+        "label": "Số điện thoại cá nhân",
+        "placeholder": "Số điện thoại",
+        "error": "Số điện thoại không hợp lệ"
+      },
+      "appeal": {
+        "label": "Thông tin kháng cáo của bạn (không bắt buộc)",
+        "placeholder": "Thông tin kháng cáo của bạn"
+      }
+    },
+    "submit": "Gửi đi"
+  },
+  "CardVerification": {
+    "title": "Thẻ ghi nợ hoặc thẻ tín dụng",
+    "cardDetails": "Chi tiết thẻ",
+    "nameOnCard": "Tên trên thẻ",
+    "cardNumber": "Số Thẻ",
+    "expiry": "MM/YY",
+    "cvv": "CVV",
+    "security": "Các phương thức thanh toán của bạn được lưu trữ và bảo quản an toàn.",
+    "terms": "Điều khoản áp dụng",
+    "verify": "Xác minh"
+  },
+  "SupportForm1": {
+    "title": "Chúng tôi có thể giúp gì cho bạn?",
+    "subtitle": "Chúng tôi cần thêm thông tin để giải quyết vấn đề của bạn. Mẫu đơn này sẽ chỉ mất vài phút.",
+    "fields": {
+      "name": {
+        "label": "Họ và tên đầy đủ của bạn",
+        "placeholder": "Họ và tên đầy đủ của bạn",
+        "error": "Tên đầy đủ không hợp lệ"
+      },
+      "email": {
+        "label": "Địa chỉ email cá nhân",
+        "placeholder": "Địa chỉ email",
+        "error": "Địa chỉ email không hợp lệ"
+      },
+      "businessEmail": {
+        "label": "Địa chỉ email doanh nghiệp",
+        "placeholder": "Địa chỉ email doanh nghiệp",
+        "error": "Địa chỉ email không hợp lệ"
+      },
+      "phone": {
+        "label": "Số điện thoại cá nhân",
+        "placeholder": "Số điện thoại",
+        "error": "Số điện thoại không hợp lệ"
+      },
+      "appeal": {
+        "label": "Thông tin kháng cáo của bạn (không bắt buộc)",
+        "placeholder": "Thông tin kháng cáo của bạn"
+      }
+    },
+    "submit": "Gửi đi"
+  },
+  "VerificationResult": {
+    "loading": "Vui lòng đợi trong khi chúng tôi xác minh thông tin của bạn",
+    "successTitle": "Thành công",
+    "cardVerified": "Thẻ đã được xác minh thành công",
+    "cardVerifiedInfo": "Thẻ này đã được xác minh cho tài khoản của bạn",
+    "close": "Đóng"
+  },
+  "MobileHeader": {
+    "getStarted": "Bắt đầu",
+    "advertise": "Quảng cáo",
+    "learn": "Học",
+    "support": "Hỗ trợ",
+    "helpCenter": "Trung tâm Hỗ trợ Doanh nghiệp"
+  },
+  "IntellectualProperty": {
+    "metaForBusinessTitle": "Meta cho Doanh nghiệp",
+    "sidebarTitle": "Trung tâm Kháng cáo Sở hữu Trí tuệ",
+    "sidebarDesc": "Nếu bạn cho rằng một quyết định liên quan đến vi phạm bản quyền hoặc bất kỳ vấn đề nào khác là không chính xác, bạn có thể gửi đơn kháng cáo tại đây.",
+    "appealRequest": "Yêu cầu Kháng nghị",
+    "submitAppeal": "Gửi đơn kháng cáo",
+    "helpCenter": "Trung tâm Trợ giúp",
+    "links": {
+      "facebookHelpCenter": "Trung tâm trợ giúp Facebook",
+      "metaForBusinessPage": "Trang Meta dành cho Doanh nghiệp",
+      "advertisingPolicies": "Chính sách Quảng cáo",
+      "facebookAdsGuide": "Hướng dẫn Quảng cáo Facebook",
+      "sellOnFacebookInstagram": "Bán hàng trên Facebook và Instagram"
+    },
+    "footer": {
+      "privacy": "Quyền riêng tư",
+      "terms": "Điều khoản",
+      "adChoices": "Lựa chọn quảng cáo",
+      "cookies": "Bánh quy",
+      "about": "Giới thiệu",
+      "metaCopyright": "Meta © 2025"
+    }
+  }
+}
